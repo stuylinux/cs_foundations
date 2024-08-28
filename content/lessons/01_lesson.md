@@ -1,6 +1,5 @@
 ---
 title: Lesson 01: Introduction
-
 ---
 
 # Introduction
