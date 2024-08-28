@@ -1,5 +1,5 @@
 ---
-title: Lesson 01: Intro
+title: Lesson 01 - Introduction
 ---
 
 # Introduction
